@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.table {
+  color: white;
+  border: 3px solid #00e7ff;
+  padding-left: 30px;
+  background-color: #092e33;
+  border-radius: 6px;
+}
+.leftSide {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  align-items: center;
+}
+.rightSide {
+  display: flex;
+  width: 400px;
+  justify-content: space-around;
+}
+.top {
+  color: #00e7ff;
+  font-size: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
